@@ -1,1 +1,1 @@
-# EditingSeq_Decomposition_HiroshimaUniv_PtBio_Benchmarking_Dataset
+# HiroshimaUniv_PtBio Benchmarking Dataset
