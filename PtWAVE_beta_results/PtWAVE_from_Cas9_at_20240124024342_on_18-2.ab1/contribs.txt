@@ -1,0 +1,4 @@
+Relative contribution of each sequence (normalized)
+--------------------------------------------------------
+0.9600 	 -85[g1] 	 CAGTTTGCTCTCCTCT-----------------------------------|--------------------------------------------------GCCATCATGCGAGGCTGCTGGCAGCGAGAACCGCAGCAACGCCTCAGCATGAAGGATGTGCACGCGCGTCTGCAGGCCCTGGCACAGGCGCCACCCAGTT
+0.0100 	 -85[g1] 	 C--------------------------------------------------|-----------------------------------CCTCCTGATGTCTACGCCATCATGCGAGGCTGCTGGCAGCGAGAACCGCAGCAACGCCTCAGCATGAAGGATGTGCACGCGCGTCTGCAGGCCCTGGCACAGGCGCCACCCAGTT

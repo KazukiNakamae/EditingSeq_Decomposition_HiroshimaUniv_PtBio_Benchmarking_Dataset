@@ -1,0 +1,10 @@
+[Command used]:
+PtWAVE PtWAVE/PtWAVE/PtWAVE.py -n seventyfiveINSfifty_all_2-2.ab1 -c SQ24A190109_11462171/10-1.ab1 -e SQ24A190109_11462171/2-2.ab1 -p NGG -m Cas9 -t GGCGATCGAGTGTATCACGC -sf 1 -st 1 -dm 75 -im 50 -vs all -o ./
+
+[Execution log]:
+SangerReader Complete
+SangerReader Complete
+Mode: Cas9 Editing
+Complete
+Inf. window after cutsite is only 100 in length and is less than 3x indel_max_size of 75
+Successfully Completed

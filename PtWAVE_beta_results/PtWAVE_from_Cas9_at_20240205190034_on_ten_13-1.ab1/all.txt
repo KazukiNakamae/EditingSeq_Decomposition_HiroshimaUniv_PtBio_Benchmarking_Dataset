@@ -1,0 +1,42 @@
+
+control                             --ACCAGCTCTGGGCCCGAGGGAGCCCAGGGTGGCCTGGCACCAAAACTT
+edited                              GTGGGAGCTCTGGGCCCGAGGGAGCCCAGGGTGGCCTGGCACCAAAACTT
+
+control                             GGCTCCTAGCCCAGAACGTCCAGGTAACTGGGTGGCGCCTGTGCCAGGGC
+edited                              GGCTCCTAGCCCAGAACGTCCAGGTAACTGGGTGGCGCCTGTGCCAGGGC
+
+control                             CTGCAGACGCGCGTGCACATCCTTCATGCTGAGGCGTTGCTGCGGTTCTC
+edited                              CTGCAGACGCGCGTGCACATCCTTCATGCTGAGGCGTTGCTGCGGTTCTC
+
+control                             GCTGCCAGCAGCCTCGCATGATGGCGTAGACATCAGGAGGGCAGGCGCGC
+edited                              GCTGCCAGCAGCCTCGCATGATGGC-------------------------
+
+control                             GGCCGCTCCAGCTCCCGGCCCTGCGTGATACACTCGATCGCCTGCGCCAC
+edited                              --------------------------------------------------
+
+control                             GGGAGAGATGAGAGGAGAGCAAACTGAGAGTTTCGGGACAGGAAGGTTAC
+edited                              ---AGAGA-------AGAGCAAACTGAAAGTTTCGGGACAGGAAGGTTAC
+
+control                             AGGCTCTCCCAGATGGTCCCTGACGGACTGAACTGTATGGTGCCCTTCAA
+edited                              AGGCTCTCCCAGATGGTCCCTGACGGACTGAACTGTATGGAGCCCTTCAA
+
+control                             ACTCCCAGGCTCTTTCCTGCTCCGTCTCTGAAAAGTGGGAATAATTGCTG
+edited                              ACTCCCAGGCTCTTTCCTGCTCCGTCTCTGAAAAGTGGGAATAATTGATG
+
+control                             CCCGACTCTAGGATTGCCTCCAGAAGGCTAGTGTTACACCCAGTGAGGAC
+edited                              CCCGACTCTAGGATTGCCTCCAGAAGGCTAGTGTTACTCCCAGGGAGGAC
+
+control                             TCGCCGGGTGGGGTGCTAAGAGTGAGGGCATGACATTATCAAACCCATAA
+edited                              TCGGCGGGTGGGGTGCTAAGAGTGAGGGCATGACATTATCAAACCCATCA
+
+control                             CAAAAAAAACTGTTTGG---------------------------------
+edited                              CCCCCAGCA-TG--TGGAGTGTTACACCCAGTGAGGACTCGCCGGGTGGG
+
+control                             --------------------------------------------------
+edited                              GTGCTAAGAGTGAGGGCATGACATTATCAAACCCATCACCCTCAAGCATG
+
+control                             -----
+edited                              TGGGG
+
+
+

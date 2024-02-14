@@ -1,0 +1,9 @@
+[Command used]:
+PtWAVE PtWAVE/PtWAVE/PtWAVE.py -n ten_random_1-1.ab1 -c SQ24A190109_11462171/10-1.ab1 -e SQ24A190109_11462171/1-1.ab1 -p NGG -m Cas9 -t GGCGATCGAGTGTATCACGC -sf 1 -st 1 -dm 10 -im 3 -vs random -o ./
+
+[Execution log]:
+SangerReader Complete
+SangerReader Complete
+Mode: Cas9 Editing
+Complete
+Successfully Completed

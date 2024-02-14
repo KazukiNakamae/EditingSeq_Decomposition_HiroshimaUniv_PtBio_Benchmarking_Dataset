@@ -1,0 +1,36 @@
+
+control                             --ACCAGCTCTGGGCCCGAGGGAGCCCAGGGTGGCCTGGCACCAAAACTT
+edited                              ATTGTTGCTCTGGGCCCGAGGGAGCCCAGGGTGGCCTGGCACCAAAACTT
+
+control                             GGCTCCTAGCCCAGAACGTCCAGGTAACTGGGTGGCGCCTGTGCCAGGGC
+edited                              GGCTCCTAGCCCAGAACGTCCAGGTAACTGGGTGGCGCCTGTGCCAGGGC
+
+control                             CTGCAGACGCGCGTGCACATCCTTCATGCTGAGGCGTTGCTGCGGTTCTC
+edited                              CTGCAGACGCGCGTGCACATCCTTCATGCTGAGGCGTTGCTGCGGTTCTC
+
+control                             GCTGCCAGCAGCCTCGCATGATGGCGTAGACATCAGGAGGGCAGGCGCGC
+edited                              GCTGCCAGCAGCCTCGCATGATGGC-------------------------
+
+control                             GGCCGCTCCAGCTCCCGGCCCTGCGTGATACACTCGATCGCCTGCGCCAC
+edited                              --------------------------------------------------
+
+control                             GGGAGAGATGAGAGGAGAGCAAACTGAGAGTTTCGGGACAGGAAGGTTAC
+edited                              ----------AGAGGAGAGCAAACTGAGAGTTTCGGGACAGGAAGGTTAC
+
+control                             AGGCTCTCCCAGATGGTCCCTGACGGACTGAACTGTATGGTGCCCTTCAA
+edited                              AGGCTCTCCCAGATGGTCCCTGACGGACTGAACTGTATGGTGCCCTTCAA
+
+control                             ACTCCCAGGCTCTTTCCTGCTCCGTCTCTGAAAAGTGGGAATAATTGCTG
+edited                              ACTCCCAGGCTCTTTCCTGCTCCGTCTCTGAAAAGTGGGAATAATTGCTG
+
+control                             CCCGACTCTAGGATTGCCTCCAGAAGGCTAGTGTTACACCCAGTGAGGAC
+edited                              CCCGACTCTAGGATTGCCTCCAGAAGGCTAGTGTTACACCCAGTGAGGAC
+
+control                             TCGCCGGGTGGGGTGCTAAGAGTGAGGGCATGACATTATCAAACCCATAA
+edited                              TCGCCGGGTGGGGTGCTAAGAGTGAGGGCATGACATTATCAAACCCATCA
+
+control                             CAAAAAAAACTGTTTGG
+edited                              CCCTCCAGCATGTGG--
+
+
+
